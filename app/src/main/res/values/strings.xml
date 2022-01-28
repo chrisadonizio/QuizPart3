@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quiz_Fragments</string>
+    <string name="app_name">Quiz_Part_3</string>
     <string name="toast_message">Well done</string>
     <string name="question1">Anciet Egyptians were the first to invent modern bread</string>
     <string name="toast_message2">Wrong. uninstall</string>
